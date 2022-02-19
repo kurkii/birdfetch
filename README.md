@@ -1,6 +1,6 @@
 # birdfetch
 system information fetcher made in Go
-![birdfetch in action](https://ibb.co/dJWcf9Q)
+![birdfetch in action](https://i.ibb.co/VpjNLyv/Screenshot-from-2022-02-19-14-46-55.png)
 
 # how to coompile
 requirements: Go
