@@ -1,5 +1,6 @@
 # birdfetch
 system information fetcher made in Go
+https://ibb.co/dJWcf9Q
 # how to coompile
 requirements: Go
 1. download sauce code
