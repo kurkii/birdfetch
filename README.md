@@ -1,5 +1,5 @@
 # birdfetch
-system information fetcher for birds made in Go
+system information fetcher for birds made in Go (only works on linux)
 
 # how to coompile
 requirements: Go
